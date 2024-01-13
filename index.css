@@ -8,33 +8,12 @@
     height: 50px;
     width: 40%;
     border: 1px solid black;
-    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
+    background-image: linear-gradient(to right, rgb(21, 110, 3) , rgb(66, 190, 108), rgb(123, 194, 158), rgb(3, 99, 24));
 }
 
 #c2{
     height: 50px;
     width: 40%;
     border: 1px solid black;
-    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
-}
-
-#c3{
-    height: 50px;
-    width: 40%;
-    border: 1px solid black;
-    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
-}
-
-#c4{
-    height: 50px;
-    width: 40%;
-    border: 1px solid black;
-    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
-}
-
-#c5{
-    height: 50px;
-    width: 40%;
-    border: 1px solid black;
-    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
+    background-image: linear-gradient(to right, rgb(44, 60, 207) , rgb(83, 85, 216), rgb(94, 119, 204), rgba(127, 155, 207, 0.87));
 }

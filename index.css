@@ -1,0 +1,40 @@
+#canvas{
+    height: 50px;
+    width: 40%;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
+}
+#c1{
+    height: 50px;
+    width: 40%;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
+}
+
+#c2{
+    height: 50px;
+    width: 40%;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
+}
+
+#c3{
+    height: 50px;
+    width: 40%;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
+}
+
+#c4{
+    height: 50px;
+    width: 40%;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
+}
+
+#c5{
+    height: 50px;
+    width: 40%;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, rgb(187, 14, 173) , rgb(211, 115, 211), rgb(207, 146, 207), rgb(133, 4, 133));
+}
